@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sportclub Olympus</string>
+    <string name="first_name">First name:</string>
+    <string name="last_name">Last name:</string>
+    <string name="gender">Gender:</string>
+    <string name="sport">Sport:</string>
+    <string name="club_members">Club Members</string>
+    <string name="add_member">Add a Member</string>
+    <string name="edit_member">Edit the Member</string>
+</resources>
